@@ -1,7 +1,7 @@
 {
-  "name": "pomace-acess",
+  "name": "pomace-access",
   "version": "0.0.1",
-  "description": "old pomace acess",
+  "description": "old pomace access",
   "main": "lib/index.js",
   "directories": {
     "lib": "lib"
@@ -11,10 +11,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@icoice.github.com:uoverusell/pomace-acess.git"
+    "url": "git@icoice.github.com:uoverusell/pomace-access.git"
   },
   "keywords": [
-    "pomace-acess"
+    "pomace-access"
   ],
   "author": "cf",
   "license": "ISC"
